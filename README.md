@@ -1,4 +1,5 @@
-# Valijson [![Build Status](https://travis-ci.org/tristanpenman/valijson.svg?branch=master)](https://travis-ci.org/tristanpenman/valijson) #
+# Valijson [![Build Status](https://travis-ci.org/tristanpenman/valijson.svg?branch=master)](https://travis-ci.org/tristanpenman/valijson) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLy-Hong%2Fvalijson.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLy-Hong%2Fvalijson?ref=badge_shield)
+#
 
 ## Overview ##
 
@@ -244,3 +245,6 @@ When building Valijson using CMake on macOS, with Qt 5 installed via Homebrew, y
 Valijson is licensed under the Simplified BSD License.
 
 See the LICENSE file for more information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLy-Hong%2Fvalijson.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLy-Hong%2Fvalijson?ref=badge_large)
